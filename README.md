@@ -4,11 +4,11 @@
 </h1>
 
 <p align="center">
-    <a href="">twitter</a>
-    <img src="https://media4.giphy.com/media/dLIvI1f9hmWHWnvdIS/giphy.gif" width=10>
-    <a href="">linkedIn</a>
-    <img src="https://media4.giphy.com/media/dLIvI1f9hmWHWnvdIS/giphy.gif" width=10>
-    <a href="">website</a>
+    <a href="https://twitter.com/ManuCastrillonM">twitter</a>
+    <img src="https://media4.giphy.com/media/dLIvI1f9hmWHWnvdIS/giphy.gif" width=15>
+    <a href="https://www.linkedin.com/in/manuelacastrillon/">linkedIn</a>
+    <img src="https://media4.giphy.com/media/dLIvI1f9hmWHWnvdIS/giphy.gif" width=15>
+    <a href="https://www.manuela.dev/">website</a>
 </p>
 
 <p align="center">

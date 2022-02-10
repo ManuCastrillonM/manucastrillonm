@@ -1,26 +1,24 @@
-<center>
-   <h1><tt>
-    > Hello world 
+<h1 align="center">
+    <tt>> Hello world</tt>
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=40 /> 
-    </tt></h1>
-</center>
+</h1>
 
-<center>
+<p align="center">
     <a href="">twitter</a>
     <img src="https://media4.giphy.com/media/dLIvI1f9hmWHWnvdIS/giphy.gif" width=10>
     <a href="">linkedIn</a>
     <img src="https://media4.giphy.com/media/dLIvI1f9hmWHWnvdIS/giphy.gif" width=10>
     <a href="">website</a>
-</center>
+</p>
 
-<center>
-    <p>
-        I'm Manu, a software engineer focused on building a better web using JavaScript
-    </p>
-</center>
+<p align="center">
+    I'm Manu, a software engineer focused on building a better web using JavaScript
+</p>
 
-<center>
-<img src="https://media1.giphy.com/media/eHjrC6X9zDIMI0alnP/giphy.gif" width=60>
+<p align="center">
+    <img src="https://media1.giphy.com/media/eHjrC6X9zDIMI0alnP/giphy.gif" width=60>
+</p>
+
 <h2> About me </h2>
 <ul>
     <li>💻 Currently working at <a href="https://www.skillshare.com">Skillshare</a></li>
@@ -28,16 +26,16 @@
     <li>🚩 I'm part of the GitHub Campus Experts program</li>
     <li>👩‍🎓 I studied Software Engineering at the Universidad de Antioquia</li>
 </ul>
-</center>
 
-<center>
+<p align="center">
 <img src="https://media3.giphy.com/media/Me7PBESMDoWyzSN9M9/giphy.gif" width=60>
-<p>I'm a huge Disney fan and I created a <a href="https://github.com/ManuCastrillonM/disney-api">Disney API</a> to retrieve information about Disney characters using rest and GraphQL</p>
+</p>
 
-<p>Please consider ⭐️ <a href="https://github.com/ManuCastrillonM/disney-api">this project</a></p>
-</center>
+<p align="center">I'm a huge Disney fan and I created a <a href="https://github.com/ManuCastrillonM/disney-api">Disney API</a> to retrieve information about Disney characters using rest and GraphQL</p>
+
+<p align="center">Please consider ⭐️ <a href="https://github.com/ManuCastrillonM/disney-api">this project</a></p>
 
 <hr>
-<center>
+<p align="center">
     <img src="https://media0.giphy.com/media/dZoAqciFF0GAPPBnZ2/giphy.gif" width=100>
-</center>
+</p>

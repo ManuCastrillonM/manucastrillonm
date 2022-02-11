@@ -5,9 +5,9 @@
 
 <p align="center">
     <a href="https://twitter.com/ManuCastrillonM">twitter</a>
-    <img src="https://media4.giphy.com/media/dLIvI1f9hmWHWnvdIS/giphy.gif" width=15>
+    <img src="https://media4.giphy.com/media/U6GL20Vz7uX0Wtp46i/giphy.gif" width=15>
     <a href="https://www.linkedin.com/in/manuelacastrillon/">linkedIn</a>
-    <img src="https://media4.giphy.com/media/dLIvI1f9hmWHWnvdIS/giphy.gif" width=15>
+    <img src="https://media4.giphy.com/media/U6GL20Vz7uX0Wtp46i/giphy.gif" width=15>
     <a href="https://www.manuela.dev/">website</a>
 </p>
 

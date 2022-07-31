@@ -24,6 +24,7 @@
     <li>💻 Currently working at <a href="https://www.skillshare.com">Skillshare</a></li>
     <li>🪴 I love doing gardening and crochet</li>
     <li>🚩 I'm part of the GitHub Campus Experts program</li>
+    <li>🌟 I'm a Google Developer Expert in Web Technologies</li>
     <li>👩‍🎓 I studied Software Engineering at the Universidad de Antioquia</li>
 </ul>
 

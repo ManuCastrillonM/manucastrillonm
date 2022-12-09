@@ -34,8 +34,3 @@
 <p align="center">I'm a huge Disney fan and I created a <a href="https://github.com/ManuCastrillonM/disney-api">Disney API</a> to retrieve information about Disney characters using rest and GraphQL</p>
 
 <p align="center">Please consider ⭐️ <a href="https://github.com/ManuCastrillonM/disney-api">this project</a></p>
-
-<hr>
-<p align="center">
-    <img src="https://media0.giphy.com/media/dZoAqciFF0GAPPBnZ2/giphy.gif" width=100>
-</p>

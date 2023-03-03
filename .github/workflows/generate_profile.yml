@@ -21,8 +21,8 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
       - run: |
-          git config user.name manucastrillonm
-          git config user.email manu.cm43@gmail.com
+          git config user.name "manucastrillonm"
+          git config user.email "manu.cm43@gmail.com"
           git add README.md
           git commit -m "[bot] Update README.md"
           git push origin main

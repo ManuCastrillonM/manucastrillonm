@@ -1,4 +1,5 @@
 import dotenv from 'dotenv';
+import fetch from 'node-fetch';
 import { readFileSync, writeFileSync } from 'node:fs';
 
 // Load environment variables from .env file

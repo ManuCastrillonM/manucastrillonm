@@ -3,7 +3,9 @@ name: Generate Profile
 on:
   push:
     branches:
-      - master
+      - main
+  schedule:
+    - cron: "0 0 * * 5"
 
 jobs:
   generate_profile:

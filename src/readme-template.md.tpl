@@ -28,19 +28,7 @@
 </ul>
 
 <h2> Latest <a href="https://youtube.com/manucastrillon?sub_confirmation=1" target="_blank">YouTube</a> Videos </h2>
-
-<a href="https://www.youtube.com/watch?v=undefined" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/hlobavk4PaQ/mqdefault.jpg" alt="Google Developer Experts Summit Europa 2023 en Google Berlin 🇩🇪">
-</a>
-<a href="https://www.youtube.com/watch?v=undefined" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/F0wlsjGi7H4/mqdefault.jpg" alt="Así fue el GitHub Field Day en Medellín">
-</a>
-<a href="https://www.youtube.com/watch?v=undefined" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/j2-M9qMyqLs/mqdefault.jpg" alt="¿Cómo es organizar un evento de tecnología? - Detrás de escena de GitHub Field Day">
-</a>
-<a href="https://www.youtube.com/watch?v=undefined" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/KtECJbtM6ZA/mqdefault.jpg" alt="Google Firebase Summit 2022 en las oficinas de Google NYC">
-</a>
+{{YOUTUBE_VIDEOS}}
 
 <hr>
 <p align="center">

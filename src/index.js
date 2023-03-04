@@ -26,7 +26,7 @@ function generateHTML(videos) {
   
   videos.forEach(video => {
     html += `
-<a href="https://www.youtube.com/watch?v=${video.id.videoId}" target="_blank">
+<a href="https://www.youtube.com/watch?v=${video.snippet.resourceId.videoId}" target="_blank">
   <img width="22%" src="${video.snippet.thumbnails.medium.url}" alt="${video.snippet.title}">
 </a>`;
   });

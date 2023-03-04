@@ -24,5 +24,3 @@ jobs:
           git config user.name "manucastrillonm"
           git config user.email "manu.cm43@gmail.com"
           git add README.md
-          git commit -m "[bot] Update README.md"
-          git push origin main

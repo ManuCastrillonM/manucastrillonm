@@ -29,6 +29,9 @@
 
 <h2> Latest <a href="https://youtube.com/manucastrillon?sub_confirmation=1" target="_blank">YouTube</a> Videos </h2>
 
+<a href="https://www.youtube.com/watch?v=G4ASAq3vn4k" target="_blank">
+  <img width="22%" src="https://i.ytimg.com/vi/G4ASAq3vn4k/mqdefault.jpg" alt="5 usos de Git Checkout que probablemente no conocías">
+</a>
 <a href="https://www.youtube.com/watch?v=Za5Gw5B0eU4" target="_blank">
   <img width="22%" src="https://i.ytimg.com/vi/Za5Gw5B0eU4/mqdefault.jpg" alt="Aprende a personalizar el log de Git">
 </a>
@@ -37,9 +40,6 @@
 </a>
 <a href="https://www.youtube.com/watch?v=hlobavk4PaQ" target="_blank">
   <img width="22%" src="https://i.ytimg.com/vi/hlobavk4PaQ/mqdefault.jpg" alt="Google Developer Experts Summit Europa 2023 en Google Berlin 🇩🇪">
-</a>
-<a href="https://www.youtube.com/watch?v=F0wlsjGi7H4" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/F0wlsjGi7H4/mqdefault.jpg" alt="Así fue el GitHub Field Day en Medellín">
 </a>
 
 <hr>

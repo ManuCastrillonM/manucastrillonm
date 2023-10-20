@@ -29,6 +29,9 @@
 
 <h2> Latest <a href="https://youtube.com/manucastrillon?sub_confirmation=1" target="_blank">YouTube</a> Videos </h2>
 
+<a href="https://www.youtube.com/watch?v=jiyWwygLAZo" target="_blank">
+  <img width="22%" src="https://i.ytimg.com/vi/jiyWwygLAZo/mqdefault.jpg" alt="¿Por qué debería regalar mi proyecto Open Source? | KubeCon + CloudNativeCon Europe 2023 Vlog">
+</a>
 <a href="https://www.youtube.com/watch?v=CzMJIRWpOXk" target="_blank">
   <img width="22%" src="https://i.ytimg.com/vi/CzMJIRWpOXk/mqdefault.jpg" alt="Vlog | Grace Hopper Celebration 2023 - ¿Que consejo te darías cuando estabas iniciando en tech?">
 </a>
@@ -37,9 +40,6 @@
 </a>
 <a href="https://www.youtube.com/watch?v=Za5Gw5B0eU4" target="_blank">
   <img width="22%" src="https://i.ytimg.com/vi/Za5Gw5B0eU4/mqdefault.jpg" alt="Aprende a personalizar el log de Git">
-</a>
-<a href="https://www.youtube.com/watch?v=2VnJ3FmywYA" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/2VnJ3FmywYA/mqdefault.jpg" alt="GitHub Digest - Conoce todo lo nuevo de GitHub del mes de febrero">
 </a>
 
 <hr>

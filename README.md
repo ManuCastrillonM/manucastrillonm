@@ -29,6 +29,9 @@
 
 <h2> Latest <a href="https://youtube.com/manucastrillon?sub_confirmation=1" target="_blank">YouTube</a> Videos </h2>
 
+<a href="https://www.youtube.com/watch?v=WZa09vONHeY" target="_blank">
+  <img width="22%" src="https://i.ytimg.com/vi/WZa09vONHeY/mqdefault.jpg" alt="Google IO Connect Miami 2023">
+</a>
 <a href="https://www.youtube.com/watch?v=jiyWwygLAZo" target="_blank">
   <img width="22%" src="https://i.ytimg.com/vi/jiyWwygLAZo/mqdefault.jpg" alt="¿Por qué debería regalar mi proyecto Open Source? | KubeCon + CloudNativeCon Europe 2023 Vlog">
 </a>
@@ -37,9 +40,6 @@
 </a>
 <a href="https://www.youtube.com/watch?v=G4ASAq3vn4k" target="_blank">
   <img width="22%" src="https://i.ytimg.com/vi/G4ASAq3vn4k/mqdefault.jpg" alt="5 usos de Git Checkout que probablemente no conocías">
-</a>
-<a href="https://www.youtube.com/watch?v=Za5Gw5B0eU4" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/Za5Gw5B0eU4/mqdefault.jpg" alt="Aprende a personalizar el log de Git">
 </a>
 
 <hr>

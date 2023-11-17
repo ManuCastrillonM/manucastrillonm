@@ -29,6 +29,9 @@
 
 <h2> Latest <a href="https://youtube.com/manucastrillon?sub_confirmation=1" target="_blank">YouTube</a> Videos </h2>
 
+<a href="https://www.youtube.com/watch?v=Ge0KwzW7-7A" target="_blank">
+  <img width="22%" src="https://i.ytimg.com/vi/Ge0KwzW7-7A/mqdefault.jpg" alt="¿COMO DESTACAR EN MI APLICACIÓN A UNA BIG TECH? | Una reclutadora de Uber responde tus preguntas">
+</a>
 <a href="https://www.youtube.com/watch?v=WZa09vONHeY" target="_blank">
   <img width="22%" src="https://i.ytimg.com/vi/WZa09vONHeY/mqdefault.jpg" alt="Google IO Connect Miami 2023">
 </a>
@@ -37,9 +40,6 @@
 </a>
 <a href="https://www.youtube.com/watch?v=CzMJIRWpOXk" target="_blank">
   <img width="22%" src="https://i.ytimg.com/vi/CzMJIRWpOXk/mqdefault.jpg" alt="Vlog | Grace Hopper Celebration 2023 - ¿Que consejo te darías cuando estabas iniciando en tech?">
-</a>
-<a href="https://www.youtube.com/watch?v=G4ASAq3vn4k" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/G4ASAq3vn4k/mqdefault.jpg" alt="5 usos de Git Checkout que probablemente no conocías">
 </a>
 
 <hr>

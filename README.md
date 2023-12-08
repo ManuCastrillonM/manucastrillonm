@@ -29,6 +29,9 @@
 
 <h2> Latest <a href="https://youtube.com/manucastrillon?sub_confirmation=1" target="_blank">YouTube</a> Videos </h2>
 
+<a href="https://www.youtube.com/watch?v=0XyevjZBqWw" target="_blank">
+  <img width="22%" src="https://i.ytimg.com/vi/0XyevjZBqWw/mqdefault.jpg" alt="Las 6 cosas que Google quiere que sepas sobre desarrollo web + Google IO Connect AMSTERDAM 🇳🇱">
+</a>
 <a href="https://www.youtube.com/watch?v=Ge0KwzW7-7A" target="_blank">
   <img width="22%" src="https://i.ytimg.com/vi/Ge0KwzW7-7A/mqdefault.jpg" alt="¿COMO DESTACAR EN MI APLICACIÓN A UNA BIG TECH? | Una reclutadora de Uber responde tus preguntas">
 </a>
@@ -37,9 +40,6 @@
 </a>
 <a href="https://www.youtube.com/watch?v=jiyWwygLAZo" target="_blank">
   <img width="22%" src="https://i.ytimg.com/vi/jiyWwygLAZo/mqdefault.jpg" alt="¿Por qué debería regalar mi proyecto Open Source? | KubeCon + CloudNativeCon Europe 2023 Vlog">
-</a>
-<a href="https://www.youtube.com/watch?v=CzMJIRWpOXk" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/CzMJIRWpOXk/mqdefault.jpg" alt="Vlog | Grace Hopper Celebration 2023 - ¿Que consejo te darías cuando estabas iniciando en tech?">
 </a>
 
 <hr>

@@ -29,6 +29,9 @@
 
 <h2> Latest <a href="https://youtube.com/manucastrillon?sub_confirmation=1" target="_blank">YouTube</a> Videos </h2>
 
+<a href="https://www.youtube.com/watch?v=lO1CaohsRAc" target="_blank">
+  <img width="22%" src="https://i.ytimg.com/vi/lO1CaohsRAc/mqdefault.jpg" alt="vlog |  Asistí a un summit para creadores de contenido en Google Singapur #GDCOC">
+</a>
 <a href="https://www.youtube.com/watch?v=0XyevjZBqWw" target="_blank">
   <img width="22%" src="https://i.ytimg.com/vi/0XyevjZBqWw/mqdefault.jpg" alt="Las 6 cosas que Google quiere que sepas sobre desarrollo web + Google IO Connect AMSTERDAM 🇳🇱">
 </a>
@@ -37,9 +40,6 @@
 </a>
 <a href="https://www.youtube.com/watch?v=WZa09vONHeY" target="_blank">
   <img width="22%" src="https://i.ytimg.com/vi/WZa09vONHeY/mqdefault.jpg" alt="Google IO Connect Miami 2023">
-</a>
-<a href="https://www.youtube.com/watch?v=jiyWwygLAZo" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/jiyWwygLAZo/mqdefault.jpg" alt="¿Por qué debería regalar mi proyecto Open Source? | KubeCon + CloudNativeCon Europe 2023 Vlog">
 </a>
 
 <hr>

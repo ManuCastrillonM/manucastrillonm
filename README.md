@@ -29,17 +29,17 @@
 
 <h2> Latest <a href="https://youtube.com/manucastrillon?sub_confirmation=1" target="_blank">YouTube</a> Videos </h2>
 
+<a href="https://www.youtube.com/watch?v=X9eWEGPkFmw" target="_blank">
+  <img width="22%" src="https://i.ytimg.com/vi/X9eWEGPkFmw/mqdefault.jpg" alt="Google IO 2024 | Día 1 - Keynote, Lanzamientos y preguntas controversiales">
+</a>
+<a href="https://www.youtube.com/watch?v=K4nO3x8QbgQ" target="_blank">
+  <img width="22%" src="https://i.ytimg.com/vi/K4nO3x8QbgQ/mqdefault.jpg" alt="Google IO 2024 | Día 0 - Así es la bienvenida al Google IO">
+</a>
+<a href="https://www.youtube.com/watch?v=36q_MMkImtQ" target="_blank">
+  <img width="22%" src="https://i.ytimg.com/vi/36q_MMkImtQ/mqdefault.jpg" alt="Como mudarse a Amsterdam trabajando en tech | encontrar trabajo, salarios, entrevistas, idioma">
+</a>
 <a href="https://www.youtube.com/watch?v=lO1CaohsRAc" target="_blank">
   <img width="22%" src="https://i.ytimg.com/vi/lO1CaohsRAc/mqdefault.jpg" alt="vlog |  Asistí a un summit para creadores de contenido en Google Singapur #GDCOC">
-</a>
-<a href="https://www.youtube.com/watch?v=0XyevjZBqWw" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/0XyevjZBqWw/mqdefault.jpg" alt="Las 6 cosas que Google quiere que sepas sobre desarrollo web + Google IO Connect AMSTERDAM 🇳🇱">
-</a>
-<a href="https://www.youtube.com/watch?v=Ge0KwzW7-7A" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/Ge0KwzW7-7A/mqdefault.jpg" alt="¿COMO DESTACAR EN MI APLICACIÓN A UNA BIG TECH? | Una reclutadora de Uber responde tus preguntas">
-</a>
-<a href="https://www.youtube.com/watch?v=WZa09vONHeY" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/WZa09vONHeY/mqdefault.jpg" alt="Google IO Connect Miami 2023">
 </a>
 
 <hr>

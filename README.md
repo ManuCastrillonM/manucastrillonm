@@ -4,15 +4,11 @@
 </h1>
 
 <p align="center">
-    <a href="https://twitter.com/ManuCastrillonM">twitter</a>
+    <a href="https://x.com/ManuCastrillonM">X</a>
     <img src="https://media4.giphy.com/media/U6GL20Vz7uX0Wtp46i/giphy.gif" width=15>
     <a href="https://www.linkedin.com/in/manuelacastrillon/">linkedIn</a>
     <img src="https://media4.giphy.com/media/U6GL20Vz7uX0Wtp46i/giphy.gif" width=15>
-    <a href="https://www.manuela.dev/">website</a>
-</p>
-
-<p align="center">
-    I'm Manu, a software engineer focused on building a better web using JavaScript
+    <a href="instagram.com/manucastrillonm/">instagram</a>
 </p>
 
 <p align="center">
@@ -22,9 +18,9 @@
 <h2> About me </h2>
 <ul>
     <li>🪴 I love doing gardening and crochet</li>
-    <li>🚩 I'm part of the GitHub Campus Experts program</li>
-    <li>🌟 I'm a Google Developer Expert in Web Technologies</li>
-    <li>👩‍🎓 I studied Software Engineering at the Universidad de Antioquia</li>
+    <li>🚩 GitHub Campus Expert Alumni</li>
+    <li>🌟 Google Developer Expert in Web Technologies</li>
+    <li>👩‍💻 Software Engineer at Uber</li>
 </ul>
 
 <h2> Latest <a href="https://youtube.com/manucastrillon?sub_confirmation=1" target="_blank">YouTube</a> Videos </h2>
@@ -47,6 +43,6 @@
     <img src="https://media3.giphy.com/media/Me7PBESMDoWyzSN9M9/giphy.gif" width=60>
 </p>
 
-<p align="center">I'm a huge Disney fan and I created a <a href="https://github.com/ManuCastrillonM/disney-api">Disney API</a> to retrieve information about Disney characters using rest and GraphQL</p>
+<p align="center">I'm a Disney fan and I created a <a href="https://github.com/ManuCastrillonM/disney-api">Disney API</a> to retrieve information about Disney characters using rest and GraphQL</p>
 
 <p align="center">Please consider ⭐️ <a href="https://github.com/ManuCastrillonM/disney-api">this project</a></p>

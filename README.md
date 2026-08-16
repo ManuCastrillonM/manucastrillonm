@@ -3,50 +3,57 @@
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=40 /> 
 </h1>
 
+I'm **Manuela**, a software engineer who loves building things for the web.
+
+Currently working on the Payments platform at **Uber** and helping make the web a little better as a **Google Developer Expert in Web Technologies**.
+
 <p align="center">
-    <a href="https://twitter.com/ManuCastrillonM">twitter</a>
-    <img src="https://media4.giphy.com/media/U6GL20Vz7uX0Wtp46i/giphy.gif" width=15>
+    <a href="https://x/ManuCastrillonM">X</a>
+    •
     <a href="https://www.linkedin.com/in/manuelacastrillon/">linkedIn</a>
-    <img src="https://media4.giphy.com/media/U6GL20Vz7uX0Wtp46i/giphy.gif" width=15>
+    •
     <a href="https://www.manuela.dev/">website</a>
 </p>
 
-<p align="center">
-    I'm Manu, a software engineer focused on building a better web using JavaScript
+---
+
+## A little more about me
+
+- 🎮 I've organized video game tournaments with **100+ competitors**.
+- 📻 I competed in **chess tournaments** when I was younger.
+- 🌵 I once had a collection of **60+ different species of succulents**.
+- 🎻 I was part of a **symphonic orchestra**.
+
+> **One of these isn't true. Any guesses? 👀**
+
+---
+
+## 📹 Sometimes I make videos
+
+I occasionally share videos about **web development, tech events, travel, and life as a developer**.
+
+<p>
+  <a href="https://www.youtube.com/watch?v=ge9DCKmVcB4">
+    <img width="30%" src="https://i.ytimg.com/vi/ge9DCKmVcB4/mqdefault.jpg" alt="YubiKey vs Google Titan">
+  </a>
+  <a href="https://www.youtube.com/watch?v=kwnlSW9EMps">
+    <img width="30%" src="https://i.ytimg.com/vi/kwnlSW9EMps/mqdefault.jpg" alt="Google I/O 2024 — Day 3">
+  </a>
+  <a href="https://www.youtube.com/watch?v=fFeGbjOhS3k">
+    <img width="30%" src="https://i.ytimg.com/vi/fFeGbjOhS3k/mqdefault.jpg" alt="Google I/O 2024 — Day 2">
+  </a>
 </p>
 
-<p align="center">
-    <img src="https://media1.giphy.com/media/eHjrC6X9zDIMI0alnP/giphy.gif" width=60>
-</p>
+[**See more on YouTube →**](https://youtube.com/manucastrillon?sub_confirmation=1)
 
-<h2> About me </h2>
-<ul>
-    <li>🪴 I love doing gardening and crochet</li>
-    <li>🚩 I'm part of the GitHub Campus Experts program</li>
-    <li>🌟 I'm a Google Developer Expert in Web Technologies</li>
-    <li>👩‍🎓 I studied Software Engineering at the Universidad de Antioquia</li>
-</ul>
+---
 
-<h2> Latest <a href="https://youtube.com/manucastrillon?sub_confirmation=1" target="_blank">YouTube</a> Videos </h2>
+## 🏰 Disney API
 
-<a href="https://www.youtube.com/watch?v=ge9DCKmVcB4" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/ge9DCKmVcB4/mqdefault.jpg" alt="YubiKey vs Google Titan: ¿La llave del futuro sin contraseñas?">
-</a>
-<a href="https://www.youtube.com/watch?v=kwnlSW9EMps" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/kwnlSW9EMps/mqdefault.jpg" alt="Google IO 2024 | Día 3, visitando Googleplex, Google Store y un día trabajando desde San Francisco">
-</a>
-<a href="https://www.youtube.com/watch?v=fFeGbjOhS3k" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/fFeGbjOhS3k/mqdefault.jpg" alt="Google IO 2024 | Día 2, probando la nueva IA y aprendiendo sobre tecnologías Google poco usadas">
-</a>
-<a href="https://www.youtube.com/watch?v=X9eWEGPkFmw" target="_blank">
-  <img width="22%" src="https://i.ytimg.com/vi/X9eWEGPkFmw/mqdefault.jpg" alt="Google IO 2024 | Día 1 - Keynote, lanzamientos y eliminamos productos de Google">
-</a>
+I'm a Disney fan, so I built an open-source API for exploring information about Disney characters.
 
-<hr>
-<p align="center">
-    <img src="https://media3.giphy.com/media/Me7PBESMDoWyzSN9M9/giphy.gif" width=60>
-</p>
+It supports **REST** and **GraphQL** and started as a side project for developers who want a fun API to experiment and build with.
 
-<p align="center">I'm a huge Disney fan and I created a <a href="https://github.com/ManuCastrillonM/disney-api">Disney API</a> to retrieve information about Disney characters using rest and GraphQL</p>
+[**Explore the Disney API →**](https://github.com/ManuCastrillonM/disney-api)
 
-<p align="center">Please consider ⭐️ <a href="https://github.com/ManuCastrillonM/disney-api">this project</a></p>
+If you build something with it, I'd love to see it — and if you find it useful, consider giving the project a ⭐️.
